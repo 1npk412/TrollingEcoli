@@ -4,7 +4,7 @@ import base64
 
 def createAnswerList():
     returnList = []
-    for i in range(1,4):
+    for i in range(1,5):
         answer = input(f'Enter answer for {i}:')
         returnList.append(answer.encode(encoding='utf-8'))
     return returnList
