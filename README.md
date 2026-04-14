@@ -1,3 +1,3 @@
 # TrollingEcoli
 
-So like this file exists for the funny Ecology Problem Set bc I want to be funny
+So like this repo exists for an inside joke you anyone seeing this can just ignore this repo
